@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 12px;
-  background: url(/Users/jazmynegandia/Documents/GitHub/simplesite/assets/img/IMG_1132.JPG) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://github.com/GandiaJazmyne/simplesite/assets/img/IMG_1132.JPG) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 8px;
 }
 #about .about-container .content {
