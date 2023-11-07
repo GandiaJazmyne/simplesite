@@ -482,7 +482,7 @@ section {
 #about .about-container .background {
   min-height: 1200px;
   background: url(../img/IMG_1132.JPG) center top no-repeat; /* this sets the image and properties on the about page */
-  margin-bottom: 0px;
+  margin-bottom: 8px;
 }
 #about .about-container .content {
   background: #fff;
