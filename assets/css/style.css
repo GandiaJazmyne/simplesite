@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 12px;
-  background: url(https://github.com/GandiaJazmyne/simplesite/blob/main/assets/img/IMG_1132.JPG?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(assets/img/IMG_1132.JPG) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 8px;
 }
 #about .about-container .content {
@@ -795,7 +795,6 @@ body {
   padding-top: 40px;
 }
 .portfolio-details .portfolio-details-slider img {
-  https://github.com/GandiaJazmyne/simplesite/blob/main/assets/img/Google%20Analytics%20Dashboard.pngraw=true
   width: 100%;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination {
